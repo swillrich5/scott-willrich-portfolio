@@ -3,11 +3,11 @@
 scottwillrich is an application that hosts my portfolio (Scott Willrich)
 
 ## Deployed Application
-https://swillrich5.github.io/scottwillrich
+https://swillrich5.github.io/scott-willrich-portfolio/
 
 ## GitHub
 
-https://github.com/swillrich5/scottwillrich
+https://github.com/swillrich5/scott-willrich-portfolio
 
 ## User Story
 ```
